@@ -1,0 +1,12 @@
+C:\Users\bxjc1\Documents\GitHub\metodo-jacobbi\Gauss-Seidel\bin\Debug\Gauss-Seidel.exe.config
+C:\Users\bxjc1\Documents\GitHub\metodo-jacobbi\Gauss-Seidel\bin\Debug\Gauss-Seidel.exe
+C:\Users\bxjc1\Documents\GitHub\metodo-jacobbi\Gauss-Seidel\bin\Debug\Gauss-Seidel.pdb
+C:\Users\bxjc1\Documents\GitHub\metodo-jacobbi\Gauss-Seidel\bin\Debug\Gauss-Seidel.xml
+C:\Users\bxjc1\Documents\GitHub\metodo-jacobbi\Gauss-Seidel\obj\Debug\Jacobbi.vbprojAssemblyReference.cache
+C:\Users\bxjc1\Documents\GitHub\metodo-jacobbi\Gauss-Seidel\obj\Debug\Gauss_Seidel.Form1.resources
+C:\Users\bxjc1\Documents\GitHub\metodo-jacobbi\Gauss-Seidel\obj\Debug\Gauss_Seidel.Resources.resources
+C:\Users\bxjc1\Documents\GitHub\metodo-jacobbi\Gauss-Seidel\obj\Debug\Jacobbi.vbproj.GenerateResource.cache
+C:\Users\bxjc1\Documents\GitHub\metodo-jacobbi\Gauss-Seidel\obj\Debug\Jacobbi.vbproj.CoreCompileInputs.cache
+C:\Users\bxjc1\Documents\GitHub\metodo-jacobbi\Gauss-Seidel\obj\Debug\Gauss-Seidel.exe
+C:\Users\bxjc1\Documents\GitHub\metodo-jacobbi\Gauss-Seidel\obj\Debug\Gauss-Seidel.xml
+C:\Users\bxjc1\Documents\GitHub\metodo-jacobbi\Gauss-Seidel\obj\Debug\Gauss-Seidel.pdb
